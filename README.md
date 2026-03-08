@@ -1,0 +1,3 @@
+This project focuses on analyzing employee performance data through Exploratory Data Analysis (EDA) and presenting insights via an interactive dashboard. The dataset includes various employee attributes such as demographic information, job roles, performance scores, KPIs, attendance, peer ratings, training hours, and promotion eligibility. Technologies Used List programming languages, libraries, and tools you used, for example: Python (pandas, numpy, seaborn, matplotlib) Jupyter Notebook for EDA Dashboard framework (e.g., Streamlit, Dash, Flask) CSV or Excel for dataset
+
+Project Structure Briefly describe folder and file organization, like: /notebooks - EDA scripts and analysis /data - Dataset file(s) /dashboard - Dashboard source code
